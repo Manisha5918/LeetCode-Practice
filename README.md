@@ -20,6 +20,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
