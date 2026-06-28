@@ -38,4 +38,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
