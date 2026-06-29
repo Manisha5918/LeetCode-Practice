@@ -11,6 +11,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -30,10 +31,12 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -42,4 +45,12 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
