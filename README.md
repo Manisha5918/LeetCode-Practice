@@ -17,6 +17,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
