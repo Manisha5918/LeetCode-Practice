@@ -14,6 +14,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Matrix
 |  |
