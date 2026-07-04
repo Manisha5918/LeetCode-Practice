@@ -50,6 +50,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0217-contains-duplicate](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 ## Counting
@@ -77,6 +79,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +108,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0136-single-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
