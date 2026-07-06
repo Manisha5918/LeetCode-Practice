@@ -121,6 +121,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0191-number-of-1-bits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0461-hamming-distance) |
 ## Matrix
 |  |
 | ------- |
