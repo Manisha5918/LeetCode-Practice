@@ -44,6 +44,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +146,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
