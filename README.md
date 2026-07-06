@@ -30,6 +30,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Simulation
 |  |
 | ------- |
