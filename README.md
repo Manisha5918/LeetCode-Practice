@@ -32,6 +32,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +140,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting Sort
 |  |
 | ------- |
