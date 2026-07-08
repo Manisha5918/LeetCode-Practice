@@ -44,6 +44,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0009-palindrome-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
