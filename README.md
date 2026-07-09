@@ -44,6 +44,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0009-palindrome-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -133,6 +134,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
@@ -160,5 +162,6 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
