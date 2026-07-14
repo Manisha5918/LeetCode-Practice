@@ -10,6 +10,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
@@ -92,6 +93,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
@@ -170,4 +172,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
