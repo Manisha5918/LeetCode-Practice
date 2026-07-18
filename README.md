@@ -101,6 +101,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0242-valid-anagram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,6 +117,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
