@@ -104,6 +104,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -121,6 +122,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
