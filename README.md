@@ -13,6 +13,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
@@ -62,6 +63,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -81,6 +83,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -104,6 +107,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0242-valid-anagram) |
