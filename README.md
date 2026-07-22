@@ -27,6 +27,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
@@ -65,6 +66,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
@@ -103,6 +105,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
