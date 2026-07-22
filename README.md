@@ -32,6 +32,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -88,6 +89,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 ## Counting
 |  |
@@ -125,6 +127,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -164,6 +167,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting Sort
 |  |
