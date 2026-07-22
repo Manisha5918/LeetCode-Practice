@@ -33,6 +33,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -43,6 +44,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 ## Counting
 |  |
@@ -178,6 +181,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
 | ------- |
