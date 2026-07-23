@@ -64,6 +64,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
@@ -202,4 +204,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
