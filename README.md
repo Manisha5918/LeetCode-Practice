@@ -76,6 +76,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +125,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
