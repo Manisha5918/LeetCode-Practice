@@ -13,6 +13,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
@@ -161,6 +162,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0118-pascals-triangle) |
@@ -170,6 +172,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
