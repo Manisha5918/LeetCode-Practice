@@ -116,6 +116,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +140,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
