@@ -45,6 +45,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -145,6 +147,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -203,6 +206,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
 | ------- |
