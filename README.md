@@ -79,6 +79,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2103-rings-and-rods](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2103-rings-and-rods) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1189-maximum-number-of-balloons](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2103-rings-and-rods](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2103-rings-and-rods) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
