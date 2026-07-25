@@ -10,6 +10,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
@@ -146,6 +147,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
@@ -192,6 +194,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
