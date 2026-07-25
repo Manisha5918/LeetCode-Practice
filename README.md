@@ -14,6 +14,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
@@ -149,6 +150,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -184,6 +186,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
@@ -216,6 +219,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
@@ -231,4 +235,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
