@@ -37,6 +37,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
@@ -242,6 +243,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Stack
 |  |
 | ------- |
