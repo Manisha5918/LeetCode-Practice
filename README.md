@@ -253,4 +253,12 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
