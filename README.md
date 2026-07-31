@@ -24,6 +24,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0118-pascals-triangle](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -64,6 +65,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -228,6 +230,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
