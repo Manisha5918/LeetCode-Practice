@@ -266,4 +266,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
