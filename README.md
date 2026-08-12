@@ -69,6 +69,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0070-climbing-stairs](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
@@ -134,6 +135,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
