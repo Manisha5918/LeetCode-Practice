@@ -90,6 +90,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0771-jewels-and-stones) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2103-rings-and-rods) |
@@ -278,6 +279,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0203-remove-linked-list-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
