@@ -96,6 +96,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
@@ -153,6 +154,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -271,6 +273,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
@@ -313,4 +316,12 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0090-subsets-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0212-word-search-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
