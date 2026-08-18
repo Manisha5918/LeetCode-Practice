@@ -51,6 +51,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -60,6 +61,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -240,6 +242,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +251,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
 |  |
