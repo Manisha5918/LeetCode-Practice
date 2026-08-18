@@ -47,6 +47,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1051-height-checker](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -199,6 +200,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0461-hamming-distance) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +239,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +265,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +275,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Linked List
 |  |
 | ------- |
@@ -326,4 +331,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
