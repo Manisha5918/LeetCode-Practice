@@ -55,6 +55,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2079-watering-plants](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2079-watering-plants) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
+| [2079-watering-plants](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2079-watering-plants) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
