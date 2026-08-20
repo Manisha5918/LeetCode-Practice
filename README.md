@@ -56,6 +56,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2105-watering-plants-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2105-watering-plants-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -190,6 +192,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
+| [2105-watering-plants-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2105-watering-plants-ii) |
 | [2938-separate-black-and-white-balls](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
