@@ -158,6 +158,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2103-rings-and-rods) |
 | [2390-removing-stars-from-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -185,6 +186,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
+| [2938-separate-black-and-white-balls](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2938-separate-black-and-white-balls](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
 | ------- |
