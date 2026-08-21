@@ -144,6 +144,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0006-zigzag-conversion](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -223,6 +224,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
@@ -339,6 +341,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0212-word-search-ii) |
 ## Merge Sort
@@ -353,4 +356,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
