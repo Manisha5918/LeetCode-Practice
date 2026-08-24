@@ -72,6 +72,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0069-sqrtx) |
