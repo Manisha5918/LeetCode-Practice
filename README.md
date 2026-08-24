@@ -27,6 +27,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0134-gas-station](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -200,6 +201,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
