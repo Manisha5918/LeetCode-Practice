@@ -184,6 +184,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -304,6 +305,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
