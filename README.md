@@ -113,6 +113,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +249,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0605-can-place-flowers](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0881-boats-to-save-people) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2938-separate-black-and-white-balls](https://github.com/Manisha5918/LeetCode-Practice/tree/master/2938-separate-black-and-white-balls) |
 ## Counting Sort
@@ -327,6 +329,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0100-same-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +337,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0100-same-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +345,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0100-same-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -369,4 +374,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
