@@ -274,6 +274,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -335,6 +336,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -344,6 +346,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0100-same-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -355,6 +358,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
