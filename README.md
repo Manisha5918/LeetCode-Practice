@@ -338,6 +338,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -348,6 +349,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -360,6 +362,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0144-binary-tree-preorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
