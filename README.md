@@ -14,6 +14,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
@@ -380,6 +381,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0212-word-search-ii) |
