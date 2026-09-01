@@ -20,6 +20,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0053-maximum-subarray](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -217,6 +218,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
@@ -378,6 +380,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0212-word-search-ii) |
 ## Merge Sort
