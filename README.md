@@ -313,6 +313,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -323,6 +324,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
