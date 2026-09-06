@@ -94,6 +94,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -198,6 +199,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -324,6 +326,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0023-merge-k-sorted-lists](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
@@ -424,4 +427,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
