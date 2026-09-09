@@ -153,6 +153,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0020-valid-parentheses) |
@@ -192,6 +193,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
@@ -243,6 +245,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0045-jump-game-ii) |
@@ -431,4 +434,8 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
