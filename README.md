@@ -64,6 +64,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -86,6 +87,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0263-ugly-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0415-add-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manisha5918/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -169,6 +171,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 | [0387-first-unique-character-in-a-string](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Manisha5918/LeetCode-Practice/tree/master/0500-keyboard-row) |
